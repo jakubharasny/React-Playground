@@ -32,7 +32,7 @@ class IndecisionApp extends React.Component {
         options: prevState.options.concat(option)
 
       };
-      
+
     });
   }
   render() {
